@@ -33,3 +33,11 @@ Im looking for any opportunity to work/chat in the tech industry so don't hesiti
 ## Personal Life
 
 Love Games, Anime, DC Comics, Problem Solving and Metal. 
+
+## My Setup
+
+- OS: Arch Linux
+- IDE: NeoVim/VS Code
+- Kitty Terminal
+- Zsh Shell
+- Browser: Vivaldi
